@@ -1,0 +1,7 @@
+.gradle/
+build/
+nbproject/
+/.nb-gradle/
+*.log
+*.class
+.idea/
